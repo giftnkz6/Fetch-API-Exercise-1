@@ -1,0 +1,25 @@
+{
+    "laptop":[
+        {
+            "id": 1,
+            "brand": "Acer",
+            "serialNumber": 123124,
+            "userName": "acerCo"
+            
+        },
+        {
+            "id": 2,
+            "brand": "Sony",
+            "serialNumber": 346273,
+            "userName": "sonyCo"
+            
+        },
+        {
+            "id": 1,
+            "brand": "Samsung",
+            "serialNumber": 246810,
+            "userName": "acerCo"
+            
+        }
+    ]
+}
